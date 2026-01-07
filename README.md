@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working on: Scaling up YOLOv5-PPE-Security for remote deployment via a Serverless/GCP architecture.<br>*seeking: I'm looking for help with<br>🌱 I'm currently learning: Advanced Terraform for infrastructure-as-code and system design principles.<br>💬 Ask me about:React/Node/Flask Full-Stack development, OAuth 2.0 security implementation, or optimizing CI/CD pipelines.<br>⚡ Fun fact:Fluent in four languages (Arabic, English, French, Spanish).<br>
+🛠️ I'm currently working on: My self .<br>*seeking: Looking for end study interrnhsip <br>🌱 I'm currently learning: Advanced Terraform for infrastructure-as-code and system design principles.<br>💬 Ask me about:React/Node/Flask Full-Stack development, OAuth 2.0 security implementation, or optimizing CI/CD pipelines.<br>⚡ Fun fact:t ).<br>
 
 
 ## 🌐 Socials:
